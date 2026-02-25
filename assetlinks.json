@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.shalinimedirmautofillformformahastemp.twa",
+        "sha256_cert_fingerprints": ["4B:13:AF:DC:CE:4A:C5:F4:A1:61:18:1C:0F:C6:3B:2B:CE:BB:9E:6B:E7:04:FB:C2:BE:D8:2E:39:E0:25:7C:68"]
+      }
+    }]
